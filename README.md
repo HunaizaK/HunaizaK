@@ -16,6 +16,7 @@ I build **production ML and LLM systems**, from data and modelling to evaluation
 - 🛠️ **AI Engineer at SIRP**, building ML and LLM systems that run in production.
 - 🎓 **Trainer:** I teach a 12-week AI & Data Science course to about 40 students at Ashrei Tech (NASTP), and I'm a section leader for **Stanford's Probability for AI** course.
 - 🌊 **Research:** probabilistic flood forecasting for Pakistan (*FLARE*, below).
+- 🔭 **Currently exploring:** model compression for deployment, calibration and uncertainty, and evaluating LLM systems.
 
 ## Featured projects
 
@@ -30,6 +31,29 @@ Every number below comes from a real run recorded in the repo. Each repo has tes
 | [**ipcv**](https://github.com/HunaizaK/ipcv) | Elderly-care monitoring: real-time action detection with an **X3D-M 3D CNN**, alert smoothing, caregiver email alerts, React dashboard | 78.9% on people never seen in training; **100% of falls and staggering** caught |
 | [**Adaptive-E-learning-Platform**](https://github.com/HunaizaK/Adaptive-E-learning-Platform) | RL tutor (**DQN vs PPO**) that sequences 73 Python lessons over an 18-concept prerequisite graph | Showed that the top-reward agent (DQN, 2.3× the fixed curriculum's reward) was **gaming the reward**: 19.4 prerequisite violations per session |
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/HunaizaK/image-processing-classical-vs-deep"><img src="https://raw.githubusercontent.com/HunaizaK/image-processing-classical-vs-deep/main/reports/figures/preprocessing.png" alt="HOG feature pipeline on a dark traffic sign"></a>
+      <br><sub>Contrast equalisation and HOG edges on a dark traffic sign</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/HunaizaK/deep-learning-architectures"><img src="https://raw.githubusercontent.com/HunaizaK/deep-learning-architectures/main/dcgan/results_full/samples.png" alt="DCGAN samples"></a>
+      <br><sub>DCGAN samples after 40 epochs</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/HunaizaK/customer-churn-ml"><img src="https://raw.githubusercontent.com/HunaizaK/customer-churn-ml/main/results/shap_beeswarm.png" alt="SHAP churn drivers"></a>
+      <br><sub>SHAP explanations of what drives churn</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <a href="https://github.com/HunaizaK/image-processing-classical-vs-deep"><img src="https://raw.githubusercontent.com/HunaizaK/image-processing-classical-vs-deep/main/reports/figures/robustness.png" alt="Robustness of CNN vs HOG+SVM under image corruptions"></a>
+      <br><sub>Robustness test: CNN vs HOG + SVM accuracy as noise, blur, darkness, rotation and occlusion increase</sub>
+    </td>
+  </tr>
+</table>
+
 ## Research
 
 **FLARE: probabilistic river-discharge forecasting and flood mapping, Jhelum and Indus basins.** A single LSTM serves 13 river gauges and outputs a full distribution for each forecast day, not just one value. Satellite-radar (Sentinel-1) thresholds then turn each forecast into a flood map.
@@ -39,6 +63,11 @@ Every number below comes from a real run recorded in the repo. Each repo has tes
 - Deployed in a disaster-response platform for shelters, incident reports and donations.
 
 *H. Khan, F. Shahid, S. M. Awan, NED University of Engineering and Technology.*
+
+## Teaching
+
+- **AI & Data Science, a 12-week course** at Ashrei Tech (NASTP), about 40 students, starting from Python and NumPy.
+- **Section leader, Stanford's Probability for AI.**
 
 ## Tech stack
 
@@ -82,3 +111,9 @@ Every number below comes from a real run recorded in the repo. Each repo has tes
 - **Splits that match reality.** I split data by person, by physical object or by time, so the score reflects real use and not leakage.
 - **Error analysis is part of the result.** I report which cases fail, why, and what I would change.
 - **Shipped, not just trained.** My projects come with tests, CI, pinned dependencies and a served model.
+
+---
+
+<p align="center">
+  <sub>Open to ML engineering conversations: <a href="https://www.linkedin.com/in/hunaiza-khan197/">LinkedIn</a> · <a href="mailto:hunaizakhan197@gmail.com">hunaizakhan197@gmail.com</a></sub>
+</p>
