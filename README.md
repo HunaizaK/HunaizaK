@@ -13,10 +13,10 @@
 
 I build **production ML and LLM systems**, from data and modelling to evaluation, compression and a served API. My priorities are honest metrics and finding out *why* a model fails.
 
-- 🛠️ **AI Engineer at SIRP**, building ML and LLM systems that run in production.
-- 🎓 **Trainer:** I teach a 12-week AI & Data Science course to about 40 students at Ashrei Tech (NASTP), and I'm a section leader for **Stanford's Probability for AI** course.
-- 🌊 **Research:** probabilistic flood forecasting for Pakistan (*FLARE*, below).
-- 🔭 **Currently exploring:** model compression for deployment, calibration and uncertainty, and evaluating LLM systems.
+-  **AI Engineer at SIRP**, building ML and LLM systems that run in production.
+-  **Trainer:** I teach a 12-week AI & Data Science course to about 40 students at Ashrei Tech (NASTP), and I'm a section leader for **Stanford's Probability for AI** course.
+-  **Research:** probabilistic flood forecasting for Pakistan (*FLARE*, below).
+-  **Currently exploring:** model compression for deployment, calibration and uncertainty, and evaluating LLM systems.
 
 ## Featured projects
 
