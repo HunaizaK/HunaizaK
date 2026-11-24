@@ -105,12 +105,6 @@ Every number below comes from a real run recorded in the repo. Each repo has tes
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
 <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
 
-## How I work
-
-- **Baselines first.** Every deep model is compared with a strong classical baseline, and significance tested.
-- **Splits that match reality.** I split data by person, by physical object or by time, so the score reflects real use and not leakage.
-- **Error analysis is part of the result.** I report which cases fail, why, and what I would change.
-- **Shipped, not just trained.** My projects come with tests, CI, pinned dependencies and a served model.
 
 ---
 
