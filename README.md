@@ -13,7 +13,7 @@
 
 ---
 
-Hi, I'm Hunaiza. On weekdays I'm an AI engineer at SIRP, where I build [SARA Open](https://sara-open.sirp.io/), a public AI security Co-Analyst. A lot of my job is teaching a model what it isn't allowed to say: the guardrails that keep it from arguing with the facts, so a confident model can't overrule a threat feed.
+Hi, I'm Hunaiza Khan . On weekdays I'm an AI engineer at SIRP, where I build [SARA Open](https://sara-open.sirp.io/), a public AI security Co-Analyst. A lot of my job is teaching a model what it isn't allowed to say: the guardrails that keep it from arguing with the facts, so a confident model can't overrule a threat feed.
 
 Come the weekend, I swap production logs for a whiteboard at NASTP, Pakistan's Silicon Valley. I'm there with 40 students who started with "what's a NumPy array?" and are now training neural nets. I also just wrapped up a stint as a section leader for Stanford's Probability for AI, which mostly meant convincing people that Bayes' rule is fun. It is.
 
