@@ -1,7 +1,7 @@
 <h1 align="center">Hunaiza Khan</h1>
 
 <p align="center">
-  <b>Most of my week goes to building ML systems. My weekends are spent at Ashrei Tech, teaching them.</b>
+  <b>Most of my week goes to building ML systems. My weekends are spent at Ashrei Tech NASTP, teaching them.</b>
   <br>
   Data Scientist and Machine Learning Engineer · Karachi, Pakistan
 </p>
